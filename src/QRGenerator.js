@@ -38,9 +38,6 @@ const QRGenerator = () => {
     <div className="container mt-4">
       <div className="row">
         <div className="col-md-6 offset-md-3">
-        <h2 className="text-center bg-color-primary"  htmlFor="qrText">
-              QR Generator
-            </h2>
           <div className="form-group">
             <br />
             <input
